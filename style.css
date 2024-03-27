@@ -1,0 +1,19 @@
+.dvd{
+    text-align: center;
+    background-color: darkcyan;
+    border-radius: 5px;
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
